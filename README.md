@@ -3,7 +3,7 @@
 
 ## 👩‍🎓 Name: Aryana Sharma
 
-## 🆔 Reg No: (enter your reg no)
+## 🆔 Reg No: 25BHI10001
 
 ## Branch: B.Tech Health Informatics
 
